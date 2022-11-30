@@ -5,7 +5,7 @@ clear
 AVG = 10; % wartość średnia
 SIGMA = 2; % odchylenie średniokwadratowe    
 N = 104; % liczebność zbioru danych
-K = 4; % liczba klas
+K = 4; % liczba klas (1-4)
 
 % kolory poszczególnych klas zapisane w formacie HEX
 C = { '#fc7703' '#1ab81f' '#c42b1a' '#861ac4' };
